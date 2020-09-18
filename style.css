@@ -1,0 +1,30 @@
+#cookie {
+    width: 300px;
+}
+
+body {
+    font-family: "helvetica";
+    text-align: center;
+    background-color: lightslategray;
+    color: white;
+
+}
+
+#scoresection {
+
+    width: 600px;
+    display: inline-block;
+}
+
+.scoretext{
+    height: 150px;
+    width: 250px;
+    border-style: dotted;
+    margin: 10px;
+    display: inline-block;
+}
+
+.numbers{
+    font-size: 40px;
+    
+}
